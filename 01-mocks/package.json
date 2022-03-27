@@ -1,0 +1,12 @@
+{
+  "name": "aula01-mocks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./index.test.js"
+  },
+  "devDependencies": {
+    "sinon": "^13.0.1"
+  }
+}
